@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer and a UI/UX designer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-vijayakumar&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-vijayakumar" /> </p>
 
 - 🔭 I’m currently working on **Various Design tools.**
@@ -14,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/#" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishnu-vijayakumar-15a51a252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-vijayakumar-15a51a252" height="30" width="40" /></a>
 <a href="https://instagram.com/vishnu_vjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu_vjk" height="30" width="40" /></a>
 </p>
 
